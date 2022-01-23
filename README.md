@@ -8,3 +8,7 @@ ABOUT:
 It's basically what it says in the title. 
 Your a snake eating food, and if you collide with the tail or the wall it's game over.
 Have Fun!
+
+IDE USED:
+
+Pycharm
